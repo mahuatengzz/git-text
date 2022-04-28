@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello,git!22222");
         System.out.println("hello,git!33333");
         System.out.println("hello,git!44444");
+        System.out.println("hit-fix test");
     }
 }
